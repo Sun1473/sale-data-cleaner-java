@@ -12,7 +12,7 @@ I chose Java to demonstrate strong core programming skills without using externa
 The hardest part was handling duplicate records, which I solved using a HashSet to track unique product and price combinations.
 
 ## 4. Output Screenshots
-(Embed screenshot of clean_sales.json opened in a text editor)
+![image alt](https://github.com/Sun1473/sale-data-cleaner-java/blob/b5b987387a907c79d5586bb6cc72556f224fdbd1/Screenshot%202026-01-28%20103719.png)
 
 ## 5. Future Improvements
 I would add support for large files, better CSV parsing, and JSON libraries like Jackson for scalability.
