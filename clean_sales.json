@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "product": "Wireless Mouse",
+    "price_inr": 2116.50,
+    "country": "USA"
+  },
+  {
+    "id": 102,
+    "product": "Mechanical Keyboard",
+    "price_inr": 9960.00,
+    "country": "Germany"
+  },
+  {
+    "id": 103,
+    "product": "Gaming Monitor",
+    "price_inr": 24900.00,
+    "country": "USA"
+  },
+  {
+    "id": 105,
+    "product": "USB-C Hub",
+    "price_inr": 3735.00,
+    "country": "Canada"
+  },
+  {
+    "id": 106,
+    "product": "Laptop Stand",
+    "price_inr": 2489.17,
+    "country": "UK"
+  }
+]
